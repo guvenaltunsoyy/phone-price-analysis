@@ -1,5 +1,5 @@
 */chromedriver.exe
-debug.log
+*/debug.log
 .DS_Store
 .huskyrc.json
 out
