@@ -36,3 +36,9 @@
 [0728/235059.941:ERROR:exception_snapshot_win.cc(98)] thread ID 15112 not found in process
 [0729/002030.466:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
 [0729/002030.467:ERROR:exception_snapshot_win.cc(98)] thread ID 13124 not found in process
+[0731/171603.781:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0731/171603.783:ERROR:exception_snapshot_win.cc(98)] thread ID 2132 not found in process
+[0731/191645.955:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0731/191645.956:ERROR:exception_snapshot_win.cc(98)] thread ID 17080 not found in process
+[0731/193905.114:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0731/193905.115:ERROR:exception_snapshot_win.cc(98)] thread ID 248 not found in process
