@@ -9,7 +9,7 @@ import logging
 import re
 
 
-driver_path = "C:/Users/Shopi/Desktop/python/phone-price-analysis/chromedriver.exe"
+driver_path = "C:/Users/Phygitalmind/Desktop/twitter-app/phone-price-analysis/chromedriver.exe"
 browser = webdriver.Chrome(executable_path=driver_path)
 next_url = "https://www.sahibinden.com/iphone-8?date=30days"
 a = []
